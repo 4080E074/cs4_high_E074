@@ -93,13 +93,13 @@ B
 ```
 ```
 129. Which type of virus(病毒) is most difficult to analyze(分析) by reverse engineering(逆向工程)?
-A. Polymorphic
-B. Macro巨集
-C. Armored
-D. Boot sector開機磁區
+A. Polymorphic千面人病毒
+B. Macro巨集病毒
+C. Armored裝甲病毒
+D. Boot sector開機型病毒
 ```
 ```
-
+B
 ```
 ```
 130. What type of attack attempts to deauthorize(取消授權) users from a resource, such as a wireless
@@ -110,7 +110,7 @@ C. Man-in-the-middle中間人攻擊
 D. Smurf attack藍精靈攻擊
 ```
 ```
-
+A
 ```
 ```
 
