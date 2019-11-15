@@ -32,7 +32,8 @@ function myFunction() {
 </body>
 </html> 
 ```
-### 放在<body>標籤 使用<script>
+```
+ ##放在<body>標籤 使用<script>
 
 ```
 <body>
