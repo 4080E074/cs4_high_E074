@@ -6,7 +6,7 @@ https://www.w3schools.com/js/js_examples.asp
 
 # JAVAScript程式格式
 
-### 放在<head>標籤 使用<script>
+### 放在head標籤 使用<script>
   
 ```
 <!DOCTYPE html>
@@ -34,7 +34,7 @@ function myFunction() {
 </html> 
 ```
 
-##放在<body>標籤 使用<script>
+##放在body標籤 使用<script>
 
 ```
 <body>
@@ -72,3 +72,46 @@ function myFunction() {
 </body>
 
 ```
+
+### 放在外部網址 使用<script>
+
+```
+<body>
+
+<h2>External JavaScript</h2>
+
+<p id="demo">A Paragraph.</p>
+
+<button type="button" onclick="myFunction()">Try it</button>
+
+<p>(myFunction is stored in an external file called "myScript.js")</p>
+
+<script src="https://www.w3schools.com/js/myScript.js"></script>
+
+</body>
+
+```
+
+### 放在外部資料夾 使用<script>
+
+```
+<body>
+
+<h2>External JavaScript</h2>
+
+<p id="demo">A Paragraph.</p>
+
+<button type="button" onclick="myFunction()">Try it</button>
+
+<p>(myFunction is stored in an external file called "myScript.js")</p>
+
+<script src="/js/myScript.js"></script>
+
+</body>
+```
+
+
+
+
+
+
