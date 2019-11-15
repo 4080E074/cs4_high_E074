@@ -60,4 +60,71 @@ https://www.w3schools.com/tags/tag_audio.asp
 
 <video  一堆屬性>   </video>
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video
+
+
+strong {
+  font-weight: bold;
+}
+https://www.w3schools.com/tags/tag_strong.asp
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+strong { 
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<p>A strong element is displayed like this:</p>
+
+<strong>Some important text</strong>
+
+<p>Change the default CSS settings to see the effect.</p>
+
+</body>
+</html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head>
+https://www.w3schools.com/tags/tag_link.asp
+
+
+
+
+
+
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
