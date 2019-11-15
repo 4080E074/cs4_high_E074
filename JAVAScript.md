@@ -7,6 +7,7 @@ https://www.w3schools.com/js/js_examples.asp
 # JAVAScript程式格式
 
 ### 放在<head>標籤 使用<script>
+  
 ```
 <!DOCTYPE html>
 <html>
@@ -32,8 +33,8 @@ function myFunction() {
 </body>
 </html> 
 ```
-```
- ##放在<body>標籤 使用<script>
+
+##放在<body>標籤 使用<script>
 
 ```
 <body>
